@@ -1,0 +1,298 @@
+{
+  "project_info": {
+    "project_number": "215256200314",
+    "project_id": "instagram-599a7",
+    "storage_bucket": "instagram-599a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:91a6202834bd7d463cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215256200314-049293ambrdr6e80e20arfarf1a7n4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearPlacesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:51023fa64f6529373cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215256200314-049293ambrdr6e80e20arfarf1a7n4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearPlacesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:06bf11001ca8a4c33cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.important_places_explorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215256200314-049293ambrdr6e80e20arfarf1a7n4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearPlacesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:d8eb750756813c0f3cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.inbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215256200314-049293ambrdr6e80e20arfarf1a7n4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearPlacesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:3e060e87c6c58aef3cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.near_places_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215256200314-049293ambrdr6e80e20arfarf1a7n4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearPlacesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:eb3cdfb230df90683cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.task_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215256200314-049293ambrdr6e80e20arfarf1a7n4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearPlacesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:df25eabf9832952e3cb7c3",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215256200314-049293ambrdr6e80e20arfarf1a7n4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearPlacesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256200314:android:157a8c079999b2ab3cb7c3",
+        "android_client_info": {
+          "package_name": "tech.devstudio.skyfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdhPiTQhHflKL3MRxDNyLko1xG2MR-X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256200314-frheokamra7q210v9u19vocaf9ur8a9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215256200314-049293ambrdr6e80e20arfarf1a7n4gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nearPlacesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
